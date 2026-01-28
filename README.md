@@ -24,13 +24,10 @@ I focus on making systems **stable, readable, and easy to work with**.
 ### Modular Ability System
 A gameplay system that manages per-player ability cooldowns and executes abilities through independent modules.
 
-**Highlights:**
+**Why is it helpfull:**
 - Centralized cooldown handling
-- Separate ability execution (Dash, etc.)
+- Separate ability execution (Dash, Fireball, etc.)
 - Clean structure for extending abilities
-- Designed with commission use in mind
-
-This project shows how I structure systems and think about maintainability.
 
 ---
 
